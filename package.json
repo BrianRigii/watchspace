@@ -1,0 +1,22 @@
+{
+  "name": "watchspace",
+  "version": "1.0.0",
+  "description": "e-commerce",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianRigii/watchspace.git"
+  },
+  "author": "John Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianRigii/watchspace/issues"
+  },
+  "homepage": "https://github.com/BrianRigii/watchspace#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
